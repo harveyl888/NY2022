@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "https://hl-ny2022.netlify.app/"
 title = "New Year 2022"
 theme = "twenty-twenty-hugo"
 languageName = "En"

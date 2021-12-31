@@ -5,5 +5,5 @@ image : "images/balloons.jpg"
 draft: false
 ---
 
-Can you sing, dance or play the bongo?
+Can you sing, dance or play the bongo?  
 Come to the New Year Talent Show!

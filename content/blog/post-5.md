@@ -5,5 +5,5 @@ image : "images/balloons.jpg"
 draft: false
 ---
 
-They have limbs and go to gyms -
+They have limbs and go to gyms -  
 Create your own world with the Sims.

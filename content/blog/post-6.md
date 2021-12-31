@@ -5,5 +5,5 @@ image : "images/balloons.jpg"
 draft: false
 ---
 
-2021 really stinks!
+2021 really stinks!  
 Let's take a break for some tasty drinks!
